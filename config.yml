@@ -63,7 +63,6 @@ homebrew_cask_apps:
   - dropbox
   - firefox
   - google-chrome
-  - sequel-ace
   - slack
   - sublime-text
   - transmit
@@ -75,6 +74,8 @@ homebrew_cask_apps:
   - alfred
   - fig
   - jetbrains-toolbox
+  - zoom
+  - kaleidoscope
 
 # See `geerlingguy.mas` role documentation for usage instructions.
 mas_installed_apps: []
