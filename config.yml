@@ -68,10 +68,15 @@ homebrew_installed_packages:
   - nmap
   - node
   - nvm
+  - yarn
   - ssh-copy-id
   - openssl
   - wget
   - zsh-history-substring-search
+  - zsh-autosuggestions
+  - zsh-syntax-highlighting
+  - romkatv/powerlevel10k/powerlevel10k
+  - starship
 
 homebrew_taps:
   - homebrew/core
@@ -102,6 +107,7 @@ homebrew_cask_apps:
   - fantastical
   - visual-studio-code
   - setapp
+  - carbon-copy-cloner
 
 # See `geerlingguy.mas` role documentation for usage instructions.
 mas_installed_apps: []
